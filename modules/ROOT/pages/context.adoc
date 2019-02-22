@@ -3,3 +3,99 @@ ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
+
+== Introducción
+
+=== La contratación como palanca de transformación del modelo económico y social
+
+*La contratación municipal representa una inyección de recursos muy relevante en la economía.*
+El Ayuntamiento de Barcelona tiene un volumen de contratación anual de unos 600 millones de euros en bienes y servicios (casi la cuarta parte del presupuesto municipal), cifra que supera los 1.000 millones de euros si se consolida todo el grupo municipal.
+Estas cifras convierten al Ayuntamiento en uno de los motores de actividad económica en la ciudad.
+
+*La contratación pública administrativa se convierte así en una de las principales herramientas con respecto a la política económica municipal* y, por lo tanto, en una de las palancas clave para impulsar la transformación del modelo económico y social de Barcelona.
+
+*El Ayuntamiento quiere* aprovechar estos recursos para *impulsar un nuevo modelo de gobierno y gestión de las TIC en el Ayuntamiento*, como motor de esta transformación, y convertirlas en un instrumento para el crecimiento del tejido económico del sector de las TIC y de la innovación de la ciudad.
+
+=== Las TIC y la innovación como elementos centrales de transformación
+
+*La evolución de las TIC en general, y el uso generalizado de internet en concreto, están transformando prácticamente todos los sectores de nuestra sociedad y de nuestra economía* (desde la manufactura y el transporte, hasta la energía o la atención sanitaria).
+La información y los datos se han convertido en uno de los bienes más valiosos y preciados.
+Estos son el producto principal de lo que se denomina _economía del conocimiento o economía digital_.
+
+En este nuevo contexto, las empresas son, en muchos casos, más valoradas por sus ideas y la información que gestionan que por sus activos materiales.
+
+Este nuevo paradigma, donde destaca internet como canal y herramienta de producción, favorece el nacimiento de nuevos intermediarios, cuyo valor añadido es ordenar la información y ponerla a disposición de los usuarios finales.
+De este modo, podemos encontrar ejemplos tan sorprendentes como los siguientes:
+
+* Una de las empresas de transporte privado más grandes del mundo... no tiene vehículos propios (Uber).
+* El mayor proveedor de alojamientos del mundo... no tiene propiedades (Airbnb).
+* Una de las compañías de telefonía más utilizadas... no es propietaria de la infraestructura de telecomunicaciones (Skype).
+* El más popular de los medios de comunicación... no crea contenidos (Facebook).
+* Una de las compañías de exhibición de contenidos audiovisuales más grandes del mundo... no tiene ningún cine ni canal de tele-visión (Netflix).
+
+Sin duda, todos ellos son ejemplos de cómo *el uso de las TIC, y especialmente los servi-cios digitales, se ha convertido en el motor de una transformación de los servicios y sectores económicos vinculados.*
+
+*Es en este contexto en el que las ciudades como Barcelona afrontan la necesidad de transformar sus maneras de hacer* y de buscar nuevas estrategias basadas en la tecnología y la innovación, para lograr un crecimiento económico más equitativo y sostenible que facilite una realización de las competencias municipales con eficiencia y justicia social.
+
+=== Transición hacia la soberanía tecnológica
+
+El 6 de octubre de 2016 la comisionada de Tecnología e Innovación Digital presentó el
+*Plan Barcelona digital 2017-2020: transición hacia la soberanía tecnológica*, cuya misión es “resolver los retos de la ciudad y de las personas a través de un uso más democrático de la tecnología. Impulsar la innovación tecnológica y digital, para un gobierno más abierto, como herramienta para el desarrollo de una economía plural que fomente la transformación social y ambiental, y que favorezca el empoderamiento ciudadano”.
+
+*El plan*, que *se estructura en tres ejes*, es una muestra de la voluntad de Barcelona de liderar una transición hacia la soberanía tecnológica, del gobierno y de la ciudadanía, que permita hacerlos partícipes, para decidir y actuar sobre las prioridades y estrategias en el uso de la tecnología en la ciudad:
+
+* Gobierno y ciudad: gobierno abierto y eficiente.
+Tecnología para la transformación e innovación pública a través de lo siguiente:
+** Transformación e innovación digital del sector público.
+** Disponer de una infraestructura de da-tos pública y abierta para desarrollar aplicaciones innovadoras basadas en datos
+
+* Empresas y entidades sociales: desarrollo del tejido socioeconómico digital y del ecosistema de innovación local, con los siguientes fines:
+** Promover y fortalecer el ecosistema y el tejido económico local, favoreciendo una economía plural y con retorno social.
+** Facilitar el acceso de las pymes a la compra pública y fomentar la creación de empleo de calidad.
+
+* Ciudadanía: empoderamiento de la ciudadanía.
+** Disponer de una amplia oferta de formación y capacitación digital personalizada para los diferentes colectivos, para facilitar una democracia activa y participativa.
+** Fomentar un empleo de calidad y permitir una soberanía digital de la ciudadanía de Barcelona.
+
+Barcelona quiere aprovechar las oportunidades que brindan la tecnología y la innovación basada en las TIC para mejorar los servicios que el Ayuntamiento presta a la ciudad poniendo el foco en el bienestar de los ciudadanos y las ciudadanas.
+
+*El compromiso es enfocar los retos reales que los ciudadanos manifiestan y centrar los esfuerzos en la prestación de unos servicios públicos actualizados y de mayor calidad, en el impulso de una economía más sostenible y colaborativa, en el fomento del talento del tejido económico local y en el empoderamiento de los ciudadanos.*
+
+== ¿Por qué esta guía?
+//revisar
+
+Esta guía proporciona una visión global de la estrategia municipal sobre la compra de tecnología y servicios tecnológicos, con el objetivo de facilitar la comprensión de las diferentes medidas estratégicas y de las cláusulas contractuales que permiten aplicar los planteamientos del Ayuntamiento en este ámbito.
+
+=== Destinatarios de la guía
+
+Esta guía se ha elaborado pensando en los responsables de las diferentes áreas y órganos municipales, directivos y gestores de servicios públicos, técnicos municipales, proveedores TIC del Ayuntamiento, ciudadanos y cualquier persona con un interés por la compra o provisión de servicios tecnológicos, y ofrece información detallada sobre el por qué, el qué y el cómo de la contratación de TIC, incluyendo explicaciones sobre el contenido de las medidas y su aplicación.
+Concretamente, los destinatarios son los siguientes:
+
+* Los responsables de las diferentes áreas y órganos municipales, directivos y gestores de servicios públicos que ejercen las funciones de planificación y ejecución de procedimientos de contratación (compradores públicos), para que tengan una visión general con respecto a la estrategia del Ayuntamiento en el ámbito de las TIC.
+
+* Los técnicos municipales responsables de iniciar un procedimiento de contratación, para los que constituye una guía para facilitar la materialización de las diferentes medidas.
+
+* Empresas del ámbito de las TIC que sean actualmente proveedores municipales o que tengan voluntad de serlo, con el objetivo de que conozcan qué aspectos hay que observar en relación con la prestación de sus servicios y el proceso de contratación.
+
+* Finalmente, la publicación de esta guía resulta un ejercicio de transparencia para los ciudadanos, ya que permite profundizar en el conocimiento, el seguimiento y el control de las medidas que está tomando el Ayuntamiento para alcanzar los objetivos fijados.
+
+=== Elaboración de la guía y puesta en marcha
+
+Esta guía es *resultado del trabajo conjunto de diferentes áreas del Ayuntamiento y del IMI, con la participación del sector empresarial.*
+
+* Se ha trabajo conjuntamente en la elaboración del contenido:
+** Con técnicos y referentes del IMI en las diferentes materias TIC objeto de esta guía.
+** Con técnicos y referentes del Área de Administración, de Servicios Jurídicos y de la Intervención del IMI con respecto a la adecuación y validez jurídica de los planteamientos, las medidas propuestas y las cláusulas.
+
+* Se ha contado con el apoyo y el asesoramiento de la Dirección de Coordinación de Contratación del Ayuntamiento de Barcelona.
+* Asimismo, se han llevado a cabo varias sesiones de trabajo con las empresas y proveedores de servicios TIC al Ayuntamiento con la finalidad de enriquecer el proceso.
+
+Para la puesta en marcha de las medidas y los planteamientos que se recogen, se *están llevando a cabo las siguientes acciones*:
+
+* Se habilitará un espacio web en el que se podrá acceder a información relevante sobre el proceso de transformación y la estrategia municipal en lo que se refiere a la compra pública.
+* Se está trabajando desde el Ayuntamiento para poner en marcha un _marketplace_: un espacio de diálogo e interrelación entre proveedores, ciudadanos y el Ayuntamiento que permitirá acceder a toda la información sobre los procedimientos de contratación abiertos y sobre los futuros contratos en licitación, y disponer de información e indicadores sobre los resultados de la ejecución de los contratos ya finalizados (entre otra información).
+El objetivo es doble: dar más visibilidad y transparencia a los procesos de contratación y facilitar el contacto entre empresas para generar alianzas, proyectos de innovación y conocimiento de buenas prácticas con respecto al abastecimiento de servicios TIC a la Administración.
+
+* Finalmente, con el fin de materializar todos estos cambios, se llevarán a cabo una serie de cambios organizativos que permitan implementar esta estrategia de manera efectiva.
+
+== Marco de referencia: la compra pública sostenible
