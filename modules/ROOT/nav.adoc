@@ -1,0 +1,18 @@
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
+// Add here AsciiDoc list items with cross references to all the pages you want
+// to see listed in the navigation menu for this document. See
+// https://docs.antora.org/antora/navigation/list-structures/ for more details
+// on the syntax of this file.
+
+xref:context.adoc[Contexto]
+xref:measures.adoc[Medidas y aplicación en la contratación]
+xref:normatives.adoc[Normativa de aplicación]
+xref:glossary.adoc[Glosario]
+
+* xref:glossary.adoc[_Guides glossary_]
+* xref:index.adoc[_Autores y otros documentos de información_]
+* link:{attachmentsdir}/barcelona_{component-name}_{revnumber}.{lang}.pdf[Descargar PDF]
