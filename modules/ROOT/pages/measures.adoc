@@ -1,7 +1,183 @@
-= Medidas y aplicación en la contratación
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
-
 include::en/glossary:partial$measures.adoc[]
+
+= Medidas y aplicación en la contratación
+
+== Medidas de aplicación en la contratación de servicios TIC
+
+Las medidas que deberán observarse en el nuevo modelo de contratación de servicios TIC se estructuran en cuatro ejes de actuación:
+
+image::Guia_contratacion_innovadora_pag09_{lang}.svg[Contratación innovadora]
+
+=== Nuevo modelo de relación
+
+La visión tradicional de la acción de la Administración se basa en el ejercicio de la autoridad de acuerdo con la legitimidad que la ley y el ordenamiento jurídico le confieren.
+Así, el procedimiento administrativo (y, por lo tanto, también la contratación pública) se ha concebido como un proceso cerrado y extremadamente regulado.
+Esta concepción ha comportado un modelo de Administración que muchas veces actúa de manera intervencionista y autoritaria (en el sentido de actuar con procedimientos unilaterales y con una posición de fuerza).
+
+Con respecto a la contratación pública, *esta unilateralidad ha tenido como resultado lo siguiente:*
+
+* *Adquisición de productos y servicios poco innovadores* y alejados de la vanguardia del mercado como resultado de la necesidad de determinar, de manera previa a su adquisición o adjudicación, todos los requerimientos y funcionalidades del servicio o producto.
+
+* *Procedimientos largos y complejos* con una alta carga administrativa (y, por lo tanto, unos costes importantes para los proveedores), que se han convertido en una barrera de acceso a la contratación pública por parte de las pequeñas empresas.
+
+* Contratos muy detallados y regulados con *una gran rigidez*, que dan muy poco margen a la adaptación a posibles cambios en las circunstancias o el contexto durante su ejecución.
+*Sin embargo, este paradigma está cambiando.*
+*Las principales líneas de actuación que se están impulsando desde el Ayuntamiento* para hacer efectivo este nuevo marco relacional y contractual son las que se explican a continuación.
+
+==== Consultas preliminares
+
+El actual marco legal contempla la posibilidad de iniciar un diálogo entre los poderes adjudicadores y el mercado antes del inicio del expediente de contratación.
+El objetivo es conocer y hacer prospección de las soluciones que ofrece al mercado para cubrir las necesidades objeto del contrato.
+
+La participación del mercado en la fase de preparación del contrato presenta una serie de ventajas en relación con el modelo tradicional de contratación.
+Concretamente, las siguientes:
+
+* Permite al mercado *una mejor y más profunda comprensión de las necesidades de la Administración* y posibilita, por lo tanto, que las soluciones propuestas se ajusten mejor tanto en precio como en calidad a lo que la Administración requiere.
+* Permite *incorporar las últimas innovaciones existentes en el mercado*, los últimos estándares abiertos y de _software_ libre que pueden ser desconocidos por parte de la Administración, especialmente en sectores con gran dinamismo como ocurre en el ámbito de las tecnologías y los sistemas de información.
+* Se trata de un modelo de contratación con *más colaboración entre las partes*, lo que facilita un acercamiento de la Administración a la realidad del mercado.
+
+==== Apertura del mercado
+
+*Modelo de relación más abierto y transpa-rente con el sector TIC, con procesos de compra más sencillos, eficientes y accesibles* para aligerar la burocracia y reducir los costes de acceso a la contratación pública.
+
+Por ejemplo, hacer uso de modalidades de licitación como las basadas en acuerdos marco o la subasta electrónica, que permiten una simplificación del procedimiento de contratación pública, con el objetivo de hacerla más accesible y menos costosa para los licitadores.
+
+El procedimiento de licitación con negociación también permite el imprescindible contacto directo entre las empresas y el órgano de contratación, garantizando la igualdad de trato, para definir y adecuar las ofertas del mercado y las necesidades municipales.
+
+Los procedimientos complejos se pueden convertir en barreras para el acceso a la contratación pública de pymes y pequeños proveedores, que no disponen de los medios necesarios para hacer frente a los requerimientos de documentación y procedimentales tradicionales.
+
+Es por eso por lo que una correcta planificación de las licitaciones es importante para facilitar a todos los potenciales interesados la elaboración de ofertas competitivas, así como la planificación de sus recursos, de manera que tengan tiempo de hacer las inversiones necesarias.
+
+El objetivo de minimizar estas barreras es ampliar el abanico de proveedores con los que trabaja el IMI y abrir, así, la compra pública al ecosistema de empresas y profesionales locales, con talento y ayudando a fortalecerlo y hacerlo crecer.
+
+==== Transparencia
+
+Facilitar el acceso a proveedores y ciudadanos a información precisa y actualizada en torno a los contratos del ámbito de las TIC del Ayuntamiento, hacer más visibles los procesos de contratación pública y aumentar la transparencia tiene efectos muy positivos en relación con la apertura y accesibilidad de estos procedimientos:
+
+* De cara a los ciudadanos, pueden saber cómo se gasta su dinero y con qué criterio, así como los resultados y objetivos alcanzados como resultado de los contratos ya ejecutados.
+* De cara a los proveedores, pueden acceder en un único punto a toda la información asociada a la contratación municipal (planificación, contratación, criterios y medidas de valoración, posicionamiento estratégico del Ayuntamiento, etcétera) con el fin de hacerla más accesible y facilitar su planificación de recursos.
+
+==== Beneficios esperados
+
+El objetivo de este nuevo modelo de relación es el *fomento de procedimientos de contratación más participativos, accesibles, ágiles y flexibles, con los siguientes objetivos:*
+
+* *Reducir los plazos y costes administrativos asociados a los procedimientos de licitación haciéndolos más accesibles* a nuevos proveedores, especialmente las pequeñas y medianas empresas de ámbito local, que son las que conforman el cuerpo central del tejido económico.
+* *Hacer más visibles los procesos de contratación pública, y aumentar la transparencia*, para hacerlos más accesibles e informar a los ciudadanos de cómo se invierten los recursos públicos y con qué criterio, así como de los resultados y objetivos alcanzados.
+* *Facilitar y favorecer la adquisición de productos y servicios innovadores, alineados con los objetivos estratégicos del Ayuntamiento con respecto a las TIC* (soberanía tecnológica, uso de estándares abiertos, etcétera) y que incorporen las últimas soluciones existentes en el mercado.
+
+=== Modelo de gestión de los datos
+
+==== Seguridad y ética de los datos
+
+El volumen de datos generados en la actualidad ofrece una serie de oportunidades inmejorables, pero también plantea nuevos retos y riesgos asociados a su seguridad.
+El Ayuntamiento debe velar por la seguridad de los datos de los ciudadanos y de la ciudad protegiendo la confidencialidad y la integridad y garantizando la calidad añadiendo mecanis-mos adecuados.
+
+Uno de los retos surgidos de este nuevo modelo es el equilibrio entre las políticas de apertura y el uso de los datos y la privacidad de los ciudadanos.
+La publicación de datos debe hacerse siempre teniendo presente que la privacidad de los ciudadanos se mantendrá inalterada, incluso teniendo en cuenta la superposición de diversas fuentes de datos.
+
+El ciclo de vida de los datos debe garantizar que en todas sus fases se desarrollen con una ética respetuosa con los ciudadanos; desde cómo se generan, se almacenan y se comparten los datos, hasta los tratamientos y finalidades para los que se utilizan.
+
+==== Datos abiertos
+
+La apertura de datos del sector público (_open public data_) es un movimiento impulsado por las administraciones con el objetivo de aprovechar al máximo los recursos públicos disponibles y las actuales capacidades tecnológicas, exponiendo la información generada o custodiada por organismos públicos y permitiendo el acceso y su reutilización para el beneficio de cualquier persona o entidad interesada.
+
+Esta información pública, de gran valor potencial, puede ser relativa a cualquier tema y de cualquier tipo (documentos pictográficos, datos estadísticos, resultados de estudios o análisis, información sobre los servicios públicos, etcétera).
+Empresas, investigadores, otras instituciones públicas o la ciudadanía en general podrán hacer uso de los recursos de información con cualquier finalidad, maximizando las posibilidades económicas y sociales que ofrece este proyecto: fomento de la transparencia en la gestión, mejora de los servicios a la ciudadanía, generación de actividades de negocio e impacto social, buscando la eficiencia en la gobernanza.
+
+Por ejemplo, compartir los datos asociados a movilidad puede facilitar la creación de redes de transporte públicas más inteligentes, que generen menos congestión, mejor movilidad para todos los ciudadanos y las ciudadanas y costes más bajos de energía.
+
+En una ciudad democrática, los ciudadanos y las ciudadanas tienen que poder utilizar un patrimonio común de conocimientos y contribuir a él; además, la participación activa de la ciudadanía puede contribuir a la resolución de los retos de la ciudad.
+
+==== Beneficios esperados del nuevo modelo de gestión de datos
+
+El objetivo de este nuevo modelo de gestión de datos es *poner en valor los datos y la infraestructura de información pública de la ciudad y garantizar*, como condición indispensable, *la privacidad y el uso responsable de los datos* asociados a los ciudadanos y al uso de los servicios públicos municipales.
+
+Un nuevo modelo de gestión de los datos que se generan como resultado del funcionamiento de servicios, de aplicaciones y del ejercicio de las competencias municipales.
+
+El objetivo es disponer de una infraestructura de datos pública y abierta para desarrollar aplicaciones innovadoras _data-driven_ para tener un mejor acceso a los servicios públicos y una mejor calidad de vida garantizando, al mismo tiempo, la soberanía de los datos a los ciudadanos.
+
+==== Beneficios esperados del uso de metodologías ágiles
+
+El uso de metodologías ágiles aporta una serie de ventajas en relación con las metodologías tradicionales, especialmente en el ámbito de la prestación de servicios digitales.
+Concretamente, las siguientes:
+
+* Poner más el foco en el usuario final, puesto que lo hace partícipe en todo el proceso de diseño, construcción y mantenimiento de las aplicaciones y servicios.
+* Ser más flexible y entregar más valor.
+Incrementar la flexibilidad en las condiciones de ejecución y favorecer un mejor ajuste entre requerimientos y necesidades reales.
+* Facilitar y favorecer la adquisición de productos y servicios innovadores, que incorporen las últimas soluciones existentes en el mercado.
+* Acortar el tiempo de desarrollo.
+Implementar la mejora continua. Sistematizar la mejora continua basada en ciclos cortos de inspección y adaptación.
+* Transformar la cultura organizativa.
+Poner énfasis en la colaboración y la transparencia.
+
+=== Nueva metodología de desarrollo
+
+Las nuevas herramientas y tecnologías permiten romper con el ciclo de vida clásico de construcción de sistemas estructurado en un conjunto de fases muy cerradas y de alcance muy concreto: definición de requerimientos, diseño funcional, diseño técnico, construcción, pruebas, pruebas de usuario, paso a producción y mantenimiento.
+
+Esta ruptura se traduce en una reducción de plazos muy importante entre los requerimientos y el despliegue (paso a producción).
+Las metodologías ágiles, en general, aprovechan esta reducción para *construir aplicaciones de una manera más eficiente, más segura, más atractiva y más focalizada en las necesidades del usuario final.*
+
+==== Beneficios esperados del uso de metodologías ágiles
+
+El uso de metodologías ágiles aporta una serie de ventajas en relación con las metodologías tradicionales, especialmente en el ámbito de la prestación de servicios digitales.
+Concretamente, las siguientes:
+
+* Poner más el foco en el usuario final, puesto que lo hace partícipe en todo el proceso de diseño, construcción y mantenimiento de las aplicaciones y servicios.
+* Ser más flexible y entregar más valor.
+Incrementar la flexibilidad en las condiciones de ejecución y favorecer un mejor ajuste entre requerimientos y necesidades reales.
+* Facilitar y favorecer la adquisición de productos y servicios innovadores, que incorporen las últimas soluciones existentes en el mercado.
+* Acortar el tiempo de desarrollo.
+Implementar la mejora continua. Sistematizar la mejora continua basada en ciclos cortos de inspección y adaptación.
+* Transformar la cultura organizativa.
+Poner énfasis en la colaboración y la transparencia.
+
+=== Soberanía tecnológica
+
+La dinámica actual de abastecimiento de servicios TIC, basada, en gran parte, en la contratación externa y el uso de _software_ propietario, ha llevado a una cierta dependencia de los proveedores TIC por parte del Ayuntamiento de Barcelona.
+Esta dependencia tiene ciertos efectos no deseados con respecto al coste de la adquisición y uso de los sistemas de información y de la capacidad de la Administración para mantenerlo y hacerlo evolucionar.
+Con el objetivo de revertir esta situación, se están emprendiendo una serie de actuaciones:
+
+* *Fomentar el uso prioritario de _software_ libre, arquitectura y estándares abiertos* para ayudar a romper la dependencia y el vendor _lock-in_ de los proveedores, avanzan-do hacia la soberanía tecnológica del Ayuntamiento.
+Asimismo, se pretende fomentar e intensificar la creación de soluciones de manera colaborativa contando con comunidades de usuarios y otras administraciones.
+
+Además, esta soberanía tecnológica, promovida con estándares abiertos, tiene que ser una herramienta para el bien común, que genere nueva economía, enriquezca el sector TIC local y facilite, también, compartir conocimiento entre diferentes ciudades.
+
+* Definir nuevos marcos contractuales que tengan en cuenta la capacitación y formación necesarias de los técnicos municipales implicados en los proyectos de diseño y desarrollo de software con la finalidad de minimizar la dependencia hacia terceros para la gestión de los servicios municipales.
+
+==== Beneficios esperados
+
+El objetivo es hacer uso preferente del _software_ libre, de arquitectura y estándares abiertos, así como dotar al Ayuntamiento de los perfiles y capacidades necesarias para recuperar el conocimiento de los servicios de TIC vinculados a la gestión de la ciudad y el gobierno de los servicios digitales.
+Con ello se pretende adquirir una soberanía tecnológica que permita dejar este conocimiento como legado para la propia ciudad.
+Además, se derivan otros beneficios, como los siguientes:
+
+* Facilitar la reutilización de sistemas y soluciones y mejorar la eficiencia de la contratación de productos y servicios informáticos.
+* Reducir los costes asociados a la prestación y adquisición de servicios y productos TIC a medio y largo plazo.
+* Garantizar la interoperabilidad entre las administraciones y entre los diferentes servicios digitales del Ayuntamiento.
+* No obligar a los ciudadanos a utilizar soluciones tecnológicas de proveedores específicos.
+* Garantizar la soberanía tecnológica y la independencia de proveedores específicos (evitar el vendor _lock-in_) y la capacidad de establecer políticas propias y transparentes con respecto a actualizaciones, seguridad y gestión de incidencias.
+* Mejorar la capacidad de adaptar y extender los sistemas digitales del Ayuntamiento a medida que las necesidades evolucionan y garantizar su sostenibilidad a largo plazo.
+
+== Aplicabilidad de las medidas en la compra de TIC
+Para facilitar la aplicabilidad de las medidas estratégicas del Ayuntamiento y del IMI que se han descrito en esta misma guía en los futuros contratos vinculados a servicios TIC, se relacionan en el anexo una serie de criterios o condiciones que se pueden incorporar a los pliegos (técnicos y administrativos) en función del alcance y el objeto del contrato:
+
+image::ict-procurement-pag13-{lang}.svg[]
+
+La incorporación de estos elementos en un proceso de compra pública se puede articular por diferentes vías, que se recogen brevemente a continuación.
+
+image::ict-procurement-pag14-{lang}.svg[]
+
+*Incorporación como criterio de solvencia.*
+De cara a facilitar la concurrencia del máximo número de proveedores en el proceso de licitación, los criterios tienen que ser proporcionados (no excesivamente restrictivos).
+
+El objetivo es garantizar que las empresas que participen tengan una solvencia económica y técnica que aporte unas garantías suficientes con respecto a su capacidad de ejecutar el contrato.
+
+*Incorporación como criterio de adjudicación.*
+La incorporación como criterio de adjudicación permite poner en valor aquellas ofertas o soluciones que mejor se ajusten a la estrategia municipal.
+Hay que tener en cuenta, por lo tanto, que los elementos que se incorporen como criterio de adjudicación son de cumplimiento opcional, ya que se trata de elementos valorativos.
+
+*Incorporación como condición de ejecución.*
+La incorporación como condición de ejecución implica una obligación por parte del adjudicatario en la ejecución de los trabajos objeto del contrato; por lo tanto, su inclusión en este bloque pretende garantizar que los trabajos se llevan a cabo bajo las condiciones y garantías necesarias de acuerdo con la estrategia municipal con respecto a los servicios TIC.

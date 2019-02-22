@@ -33,7 +33,7 @@ De este modo, podemos encontrar ejemplos tan sorprendentes como los siguientes:
 * El más popular de los medios de comunicación... no crea contenidos (Facebook).
 * Una de las compañías de exhibición de contenidos audiovisuales más grandes del mundo... no tiene ningún cine ni canal de tele-visión (Netflix).
 
-Sin duda, todos ellos son ejemplos de cómo *el uso de las TIC, y especialmente los servi-cios digitales, se ha convertido en el motor de una transformación de los servicios y sectores económicos vinculados.*
+Sin duda, todos ellos son ejemplos de cómo *el uso de las TIC, y especialmente los servicios digitales, se ha convertido en el motor de una transformación de los servicios y sectores económicos vinculados.*
 
 *Es en este contexto en el que las ciudades como Barcelona afrontan la necesidad de transformar sus maneras de hacer* y de buscar nuevas estrategias basadas en la tecnología y la innovación, para lograr un crecimiento económico más equitativo y sostenible que facilite una realización de las competencias municipales con eficiencia y justicia social.
 
@@ -99,3 +99,95 @@ El objetivo es doble: dar más visibilidad y transparencia a los procesos de con
 * Finalmente, con el fin de materializar todos estos cambios, se llevarán a cabo una serie de cambios organizativos que permitan implementar esta estrategia de manera efectiva.
 
 == Marco de referencia: la compra pública sostenible
+
+Las administraciones públicas pueden utilizar sus contratos como eficaces instrumentos de lucha contra la exclusión social, de generación de empleo de calidad, de impulso de la igualdad efectiva de hombres y mujeres y de preservación del medio ambiente.
+
+*La Directiva de contratación pública 2014/24/UE*, aprobada por el Parlamento Europeo y el Consejo, en su considerando n.º 2, señala: “*La contratación pública tiene un papel clave en la Estrategia Europa 2020*, que es uno de los instrumentos basados en el mercado que deben utilizarse *para conseguir un crecimiento inteligente, sostenible e integrador*, y garantiza, al mismo tiempo, un uso más eficiente de los fondos públicos, facilita la participación de las pequeñas y medianas empresas en la contratación pública y *permite que los contratantes utilicen mejor la contratación pública en apoyo de objetivos sociales comunes”*.
+
+Es en este contexto en el que el Ayuntamiento de Barcelona, con la voluntad de definir una nueva estrategia de contratación, toma una serie de medidas destinadas a poner en marcha una estrategia de contratación sostenible que permita favorecer una mejora general de las condiciones laborales y medioambientales de los sectores productivos locales, promoviendo el bien común.
+
+*La estrategia municipal se estructura en tres ejes de actuación:*
+
+* *Conjunto de medidas sociales*.
+Medidas sociales, de inclusión social, de igualdad de género y de justicia social para incentivar la contratación de las obras, los suministros y los servicios con empresas y profesionales que ejecuten los contratos públicos con un modelo de negocio basado en salarios dignos, contratación laboral estable con protección de la salud laboral y comportamiento ético.
+
+* *Conjunto de medidas ambientales*.
+Incorpora las instrucciones técnicas para la aplicación de criterios de sostenibilidad para doce ámbitos de actividad concretos y una relación de posibles criterios ambientales para los ámbitos fuera de la aplicación de las instrucciones técnicas.
+
+* *Conjunto de medidas transversales asociadas a la tecnología y la innovación*. Este tercer eje consta de un conjunto de líneas de actuación destinadas a lo siguiente:
+** Incrementar la soberanía tecnológica del Ayuntamiento.
+** Disponer de una infraestructura de datos pública y abierta que garantice la privacidad de los ciudadanos e incremente la transparencia de la Administración municipal.
+** Incorporar nuevas metodologías que permitan el desarrollo de servicios digitales innovadores, eficientes y focalizados en las necesidades de los ciudadanos.
+
+//Falta imatge
+
+Medidas que tienen un efecto multiplicativo sobre los otros dos ejes (sociales y ambientales), ya que una buena gestión de la innovación y la tecnología es un elemento clave a la hora de desarrollar mejores políticas sociales (vivienda social, reducción de la pobreza o creación de puestos de trabajo de futuro) y ambientales, y potenciar su efecto.
+
+Un ejemplo de esta voluntad es la afiliación del Ayuntamiento de Barcelona al proyecto _Electronics Watch (http://electronicswatch.
+org/ca)_ para la compra pública responsable y los derechos laborales en la industria de la electrónica.
+De esta afiliación se deriva, también, la inclusión de unas determinadas cláusulas en los contratos de compra de equipos electrónicos con el objetivo de respetar los derechos laborales y las normas de seguridad en las cadenas mundiales de suministro de productos TIC.
+
+Esta estrategia ha tomado forma con *la publicación de un decreto de alcaldía de contratación pública sostenible del Ayuntamiento de Barcelona (S1/D/2017-1271, de 24 de abril)*, en el que se establece, en el primer artículo, la voluntad de impulsar una contratación pública que integra, en la causa y el objeto del contrato público municipal, medidas sociales, ambientales, éticas y de innovación:
+
+* Que garanticen los derechos laborales, sociales y ciudadanos de las personas que ejecuten el contrato público y de las personas destinatarias o usuarias de este.
+* Que impulsen una economía local circular y sostenible.
+* Y que promuevan la actividad económica de las medianas y pequeñas empresas, de las microempresas locales y, singularmente, de las empresas sociales.
+
+*El decreto incorpora la Guía de contratación pública social y la Guía de contratación pública ambiental* para dar más visibilidad y acelerar la incorporación de las medidas y cláusulas de carácter social y ambiental en los futuros pliegos, y prevé la posible incorporación de medidas o instrucciones en otros ámbitos.
+
+*Esta guía tiene como objeto recoger las medidas asociadas a este tercer eje (las TIC y la innovación).*
+
+== Concepto de contratación TIC y compra para la innovación
+
+=== Contratación tecnológica
+
+Hablamos de contratación TIC para referirnos a cualquier proceso de adquisición, mantenimiento o mejora de cualquier elemento asociado a los siguientes ámbitos:
+
+* *Las redes e infraestructuras de comunicación.*
+Incluye toda aquella infraestructura que permite la comunicación entre dos terminales o equipos informáticos.
+* *_Hardware_ o elemento físico de comunicación y procesamiento de la información (terminales).*
+Los terminales actúan como punto de acceso a la sociedad de la información y, por eso, son de suma importancia y constituyen uno de los elementos que más han evolucionado y evolucionan: es continua la aparición de terminales que permiten aprovechar la digitalización de la información y la creciente disponibilidad de infraestructuras para el intercambio de esta información digital.
+A todo ello han contribuido distintas novedades tecnológicas que han coincidido en el tiempo para favorecer un entorno propicio, puesto que la innovación en terminales va unida a la innovación en servicios, ya que usualmente el terminal es el elemento que limita el acceso.
+
+* *_Software._*
+Es el conjunto de los programas informáticos, procedimientos y documentación que desempeñan alguna tarea en un ordenador.
+
+* *Los servicios digitales.*
+Se entiende por servicio digital todo servicio que se pone a disposición del usuario —a través de internet o de cualquier adaptación o aplicación de los protocolos, plataformas o la tecnología utilizada por internet o cualquier otra red, pública o privada— y mediante el cual se prestan servicios equivalentes a través de accesos en línea.
+Se caracteriza porque es esencialmente automático y no es viable en ausencia de la tecnología de la información.
+En línia y se caracteritza porqué es esencialmente automático y no es viable en ausencia de la tecnología de la información.
+
+=== La compra pública para la innovación
+
+El Ayuntamiento quiere participar de las ventajas de la compra para la innovación y se ha fijado como estrategia la introducción de una serie de acciones para hacer que sus compras fomenten la innovación con la finalidad de garantizar e incrementar el bienestar de las personas que viven en el territorio.
+
+La contratación pública para la innovación es una nueva manera de contratar y de dialogar con el mercado para responder a las necesidades que no encuentran solución en los procesos de contratación ordinaria.
+
+Este nuevo enfoque de las compras públicas se postula como una herramienta fundamental para obtener soluciones que se ajusten mucho más a las demandas reales de la sociedad y para ayudar a las empresas a ser más competitivas.
+El Ayuntamiento se posiciona como tractor de innovación del mercado.
+
+Se pretende, así, estimular la creación de nuevos mercados, nuevos productos, nuevos métodos de producción o nuevas maneras de organización o suministro.
+Se trata de pasar de una compra pública muy detallada en los pliegos técnicos, y a menudo adjudicada con criterios del mejor precio, a una compra que trabaja por definición de retos y soluciones sostenibles innovadoras, a menudo con la implicación de multiplicidad de actores.
+Este nuevo planteamiento permite la entrada de ideas y de soluciones innovadoras que aportan eficiencia.
+
+*Para más detalles, consulte la Guía de compra para la innovación editada por el Ayuntamiento de Barcelona.*
+
+=== Ámbitos de aplicación de los servicios TIC
+
+Los ámbitos de aplicación de esta guía, con respecto a la tecnología, son, principalmente, los siguientes:
+
+* *Adquisición de software y soluciones TIC:* compra de aplicaciones y soluciones TIC, así como de licencias para su uso.
+
+* *Desarrollo de servicios y aplicaciones:* desarrollo, mantenimiento y evolución de soluciones TIC eficientes y productivas para la ciudadanía y los empleados municipales.
+
+* *Infraestructuras TIC:* despliegue, seguimiento y control de aplicaciones, servicios y sistemas TIC del Ayuntamiento, incluyendo la administración de tareas relacionadas con el funcionamiento de la in-fraestructura y las aplicaciones.
+
+=== Ámbitos de aplicación de la compra para la innovación
+
+Barcelona propone una amplia definición de promoción de la innovación en su estrategia:
+
+* Entiende la compra pública para la innovación (CPI) como la compra pública que aprovecha las soluciones innovadoras (productos, tecnologías y procesos) que surgen en el proceso de compra para fomentar un mayor impacto en el crecimiento sostenible e integrador de la sociedad.
+
+* Barcelona también promueve con los mismos objetivos la inclusión de la innovación en sus compras regulares; es decir, la compra de cualquier producto o servicio con un componente de innovación.
+
+*Para más detalles, consulte la Guía de compra para la innovación editada por el Ayuntamiento de Barcelona.*
