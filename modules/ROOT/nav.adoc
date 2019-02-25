@@ -13,6 +13,6 @@ xref:measures.adoc[Medidas y aplicación en la contratación]
 xref:normatives.adoc[Normativa de aplicación]
 xref:glossary.adoc[Glosario]
 
-* xref:glossary.adoc[_Guides glossary_]
+* xref:glossary.adoc[_Glosario de guías_]
 * xref:index.adoc[_Información de los Autores y otros documentos de información_]
 * link:{attachmentsdir}/barcelona_{component-name}_{revnumber}.{lang}.pdf[Descargar PDF]

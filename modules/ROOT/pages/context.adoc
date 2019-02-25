@@ -32,7 +32,7 @@ De este modo, podemos encontrar ejemplos tan sorprendentes como los siguientes:
 * El mayor proveedor de alojamientos del mundo... no tiene propiedades (Airbnb).
 * Una de las compañías de telefonía más utilizadas... no es propietaria de la infraestructura de telecomunicaciones (Skype).
 * El más popular de los medios de comunicación... no crea contenidos (Facebook).
-* Una de las compañías de exhibición de contenidos audiovisuales más grandes del mundo... no tiene ningún cine ni canal de tele-visión (Netflix).
+* Una de las compañías de exhibición de contenidos audiovisuales más grandes del mundo... no tiene ningún cine ni canal de televisión (Netflix).
 
 Sin duda, todos ellos son ejemplos de cómo *el uso de las TIC, y especialmente los servicios digitales, se ha convertido en el motor de una transformación de los servicios y sectores económicos vinculados.*
 
@@ -48,7 +48,7 @@ El 6 de octubre de 2016 la comisionada de Tecnología e Innovación Digital pres
 * Gobierno y ciudad: gobierno abierto y eficiente.
 Tecnología para la transformación e innovación pública a través de lo siguiente:
 ** Transformación e innovación digital del sector público.
-** Disponer de una infraestructura de da-tos pública y abierta para desarrollar aplicaciones innovadoras basadas en datos
+** Disponer de una infraestructura de datos pública y abierta para desarrollar aplicaciones innovadoras basadas en datos
 
 * Empresas y entidades sociales: desarrollo del tejido socioeconómico digital y del ecosistema de innovación local, con los siguientes fines:
 ** Promover y fortalecer el ecosistema y el tejido económico local, favoreciendo una economía plural y con retorno social.
@@ -181,7 +181,7 @@ Los ámbitos de aplicación de esta guía, con respecto a la tecnología, son, p
 
 * *Desarrollo de servicios y aplicaciones:* desarrollo, mantenimiento y evolución de soluciones TIC eficientes y productivas para la ciudadanía y los empleados municipales.
 
-* *Infraestructuras TIC:* despliegue, seguimiento y control de aplicaciones, servicios y sistemas TIC del Ayuntamiento, incluyendo la administración de tareas relacionadas con el funcionamiento de la in-fraestructura y las aplicaciones.
+* *Infraestructuras TIC:* despliegue, seguimiento y control de aplicaciones, servicios y sistemas TIC del Ayuntamiento, incluyendo la administración de tareas relacionadas con el funcionamiento de la infraestructura y las aplicaciones.
 
 === Ámbitos de aplicación de la compra para la innovación
 

@@ -15,7 +15,7 @@ Puede implicar importantes ventajas tanto para la Administración como para los 
 El acuerdo marco permite establecer, en un único proceso, una serie de condiciones o términos comunes válidos para los múltiples contratos que se deriven mientras el acuerdo esté vigente.
 
 Aun así, se debe tener en cuenta que también puede comportar efectos negativos sobre la competencia, puesto que, como resultado de la homologación, se puede producir un cierto cierre del mercado y facilitar la colusión entre las empresas que han sido homologadas.
-La duración y el alcance limitados del acuerdo marco, así como la definición de unos cri-terios adecuados para la adjudicación de la contratación derivada, permiten reducir estos efectos adversos.
+La duración y el alcance limitados del acuerdo marco, así como la definición de unos criterios adecuados para la adjudicación de la contratación derivada, permiten reducir estos efectos adversos.
 
 == Código abierto (_open source_)
 
@@ -27,10 +27,10 @@ La Open Source Initiative (OSI) es una organización sin ánimo de lucro y de am
 
 . Libre redistribución: el software se debe poder regalar o vender libremente.
 . Código fuente: debe estar incluido, ser público u obtenerse libremente.
-. Permitir modificaciones o trabajos derivados: la redistribución de modificacio-nes debe estar permitida.
+. Permitir modificaciones o trabajos derivados: la redistribución de modificaciones debe estar permitida.
 . Integridad del código fuente del autor: las licencias pueden requerir que las modificaciones se redistribuyan solo como parches, dejando el código original sin cambios.
 . No restringir su uso a ninguna persona o grupo: nadie puede quedar fuera.
-. No restringir su uso a ninguna activi-dad, línea de negocio o área de iniciativa: los usuarios comerciales no pueden ser excluidos.
+. No restringir su uso a ninguna actividad, línea de negocio o área de iniciativa: los usuarios comerciales no pueden ser excluidos.
 . Distribución de la licencia: deben aplicarse los mismos derechos a todos quienes reciban el programa, y la licencia debe permanecer intacta al distribuir o modificar el _software_.
 . La licencia no debe ser específica de un producto: el programa no se puede licenciar solamente como parte de una distribución mayor.
 . La licencia no tiene que restringir a otro _software_: la licencia no puede obligar a que algún otro _software_ que se distribuya con el _software_ abierto también sea de código abierto.
@@ -38,7 +38,7 @@ La Open Source Initiative (OSI) es una organización sin ánimo de lucro y de am
 
 Hay que diferenciar, pues, los productos como el _software libre_ o de código abierto/_open source_, que dan a los usuarios la libertad de utilizarlo y mejorarlo facilitando el acceso al código fuente y permitiendo la modificación y la libre distribución, de los productos que simplemente facilitan acceso al código fuente, pero que no permiten su modificación o distribución.
 
-Por lo tanto, no todos los productos que ofrezcan el código fuente necesariamente son productos -open source_ o libres, ya que, aunque son transparentes, no se permite su modificación o distribución.
+Por lo tanto, no todos los productos que ofrezcan el código fuente necesariamente son productos _open source_ o libres, ya que, aunque son transparentes, no se permite su modificación o distribución.
 
 En este sentido, es importante matizar que, a todos los efectos jurídicos y contractuales, el código abierto es lo mismo que el _software_ libre.
 Los dos movimientos se distinguen con respecto a su política, filosofía y ética.
@@ -201,4 +201,4 @@ Proceso de negociación iterativo de selección de ofertas que dispone de un dis
 
 El proceso requiere una primera evaluación de las ofertas presentadas por los proveedores, a los que después se invita a participar en la subasta para que puedan ofrecer mejoras en relación con los elementos de valoración (precio u otros elementos).
 
-No se trata de un procedimiento de contra-tación, sino de un instrumento o una herra-mienta aplicable a varios procedimientos de contratación, siempre que la naturaleza del servicio o el producto objeto de la compra lo haga posible, de acuerdo con lo que establece la Ley de contratas del sector público.
+No se trata de un procedimiento de contratación, sino de un instrumento o una herramienta aplicable a varios procedimientos de contratación, siempre que la naturaleza del servicio o el producto objeto de la compra lo haga posible, de acuerdo con lo que establece la Ley de contratas del sector público.
