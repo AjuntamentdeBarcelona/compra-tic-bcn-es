@@ -14,5 +14,5 @@ xref:normatives.adoc[Normativa de aplicación]
 xref:glossary.adoc[Glosario]
 
 * xref:glossary.adoc[_Guides glossary_]
-* xref:index.adoc[_Autores y otros documentos de información_]
+* xref:index.adoc[_Información de los Autores y otros documentos de información_]
 * link:{attachmentsdir}/barcelona_{component-name}_{revnumber}.{lang}.pdf[Descargar PDF]

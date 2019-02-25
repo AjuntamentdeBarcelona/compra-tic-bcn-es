@@ -1,7 +1,16 @@
-= Normativa de aplicación
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-include::en/glossary:partial$normatives.adoc[]
+= Normativa de aplicación
+
+En lo referente a la contratación pública:
+
+* La Directiva 2014/24/UE sobre contratación pública establece la obligatoriedad de la licitación electrónica el tercer trimestre del 2018 respecto al uso de medios electrónicos para la comunicación e intercambios de información (octubre del 2017 para las centrales de compras).
+* Real decreto legislativo 3/2011, de 14 de noviembre, por el que se aprueba el texto refundido de la Ley de contratos del sector público.
+* La Ley 39/2015 de procedimiento administrativo común establece, entre otros, la obligatoriedad de utilizar el expediente electrónico y tramitarlo también por vía electrónica.
+* La Ley 19/2014, de 29 de diciembre, de transparencia, acceso a la información pública y buen gobierno, establece las obligaciones de publicidad activa que deben cumplir los ayuntamientos, entre las que están las correspon-dientes a contratos y convenios.
+* Decreto de Alcaldía (S1/D/2017-1271 de 24 de abril) de contratación pública sostenible del Ayuntamiento de Barcelona.
+* El Real decreto 4/2010 (esquema nacional de interoperabilidad) establece, entre otros, la obligación de cumplir con estándares abiertos y de reutilizar código si existe.
+* Real decreto 5/2010 (esquema nacional de seguridad).
