@@ -121,11 +121,18 @@ Incorpora las instrucciones técnicas para la aplicación de criterios de sosten
 ** Incorporar nuevas metodologías que permitan el desarrollo de servicios digitales innovadores, eficientes y focalizados en las necesidades de los ciudadanos.
 
 //Falta imatge
+[cols=`^,,^,^`, width="20%"]
+|============================
+2.1+^|[OBJ] *DECRETO DE ALCALDIA*
+
+¬-----------l---------------¬
+|MEDIDAS SOCIALES ^|MEDIDAS AMBIENTALES
+2+^|*TIC E INNOVACIÓN*
+|============================
 
 Medidas que tienen un efecto multiplicativo sobre los otros dos ejes (sociales y ambientales), ya que una buena gestión de la innovación y la tecnología es un elemento clave a la hora de desarrollar mejores políticas sociales (vivienda social, reducción de la pobreza o creación de puestos de trabajo de futuro) y ambientales, y potenciar su efecto.
 
-Un ejemplo de esta voluntad es la afiliación del Ayuntamiento de Barcelona al proyecto _Electronics Watch (http://electronicswatch.
-org/ca)_ para la compra pública responsable y los derechos laborales en la industria de la electrónica.
+Un ejemplo de esta voluntad es la afiliación del Ayuntamiento de Barcelona al proyecto _Electronics Watch (http://electronicswatch.org/ca)_ para la compra pública responsable y los derechos laborales en la industria de la electrónica.
 De esta afiliación se deriva, también, la inclusión de unas determinadas cláusulas en los contratos de compra de equipos electrónicos con el objetivo de respetar los derechos laborales y las normas de seguridad en las cadenas mundiales de suministro de productos TIC.
 
 Esta estrategia ha tomado forma con *la publicación de un decreto de alcaldía de contratación pública sostenible del Ayuntamiento de Barcelona (S1/D/2017-1271, de 24 de abril)*, en el que se establece, en el primer artículo, la voluntad de impulsar una contratación pública que integra, en la causa y el objeto del contrato público municipal, medidas sociales, ambientales, éticas y de innovación:
