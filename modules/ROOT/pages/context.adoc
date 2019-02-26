@@ -63,7 +63,6 @@ Barcelona quiere aprovechar las oportunidades que brindan la tecnología y la in
 *El compromiso es enfocar los retos reales que los ciudadanos manifiestan y centrar los esfuerzos en la prestación de unos servicios públicos actualizados y de mayor calidad, en el impulso de una economía más sostenible y colaborativa, en el fomento del talento del tejido económico local y en el empoderamiento de los ciudadanos.*
 
 == ¿Por qué esta guía?
-//revisar
 
 Esta guía proporciona una visión global de la estrategia municipal sobre la compra de tecnología y servicios tecnológicos, con el objetivo de facilitar la comprensión de las diferentes medidas estratégicas y de las cláusulas contractuales que permiten aplicar los planteamientos del Ayuntamiento en este ámbito.
 
@@ -120,15 +119,7 @@ Incorpora las instrucciones técnicas para la aplicación de criterios de sosten
 ** Disponer de una infraestructura de datos pública y abierta que garantice la privacidad de los ciudadanos e incremente la transparencia de la Administración municipal.
 ** Incorporar nuevas metodologías que permitan el desarrollo de servicios digitales innovadores, eficientes y focalizados en las necesidades de los ciudadanos.
 
-//Falta imatge
-[cols=`^,,^,^`, width="20%"]
-|============================
-2.1+^|[OBJ] *DECRETO DE ALCALDIA*
-
-¬-----------l---------------¬
-|MEDIDAS SOCIALES ^|MEDIDAS AMBIENTALES
-2+^|*TIC E INNOVACIÓN*
-|============================
+image::presupuesto-calendario_03_{lang}.svg[width="170" align="center"]
 
 Medidas que tienen un efecto multiplicativo sobre los otros dos ejes (sociales y ambientales), ya que una buena gestión de la innovación y la tecnología es un elemento clave a la hora de desarrollar mejores políticas sociales (vivienda social, reducción de la pobreza o creación de puestos de trabajo de futuro) y ambientales, y potenciar su efecto.
 
