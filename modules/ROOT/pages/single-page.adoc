@@ -28,6 +28,6 @@ include::context.adoc[]
 
 include::measures.adoc[]
 
-include::normatives.adoc[]
+include::regulations.adoc[]
 
-include::glossary.adoc[]
+//include::glossary.adoc[]

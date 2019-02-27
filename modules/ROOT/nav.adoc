@@ -10,8 +10,8 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 xref:context.adoc[Contexto]
 xref:measures.adoc[Medidas y aplicación en la contratación]
-xref:normatives.adoc[Normativa de aplicación]
-xref:glossary.adoc[Glosario]
+xref:regulations.adoc[Normativa de aplicación]
+//xref:glossary.adoc[Glosario]
 
 * xref:glossary.adoc[_Glosario de guías_]
 * xref:index.adoc[_Información de los Autores y otros documentos de información_]
