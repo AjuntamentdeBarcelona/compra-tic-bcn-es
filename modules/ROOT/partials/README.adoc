@@ -20,7 +20,7 @@
 :uri-public-repo: https://github.com/AjuntamentdeBarcelona/ict-procurement-bcn-es.git
 //
 // MANDATORY. Exactly the same value you give to key "name" in file antora.yml.
-:component-name:
+:component-name: es/ict-procurement
 //
 // MANDATORY. Title of the document. In web format, it appears as a heading of
 // level 1. In PDF format, it appears in a title page.
