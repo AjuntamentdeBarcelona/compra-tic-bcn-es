@@ -16,13 +16,13 @@
    y="0px"
    viewBox="0 0 475.60002 690.10005"
    xml:space="preserve"
-   sodipodi:docname="presupost-calendari_03 _es.svg"
+   sodipodi:docname="presupuesto-calendario_03_es.svg"
    width="475.60001"
    height="690.10004"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
    id="metadata601"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs599" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -32,21 +32,21 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1600"
-   inkscape:window-height="847"
+   inkscape:window-width="1280"
+   inkscape:window-height="961"
    id="namedview597"
    showgrid="false"
    fit-margin-top="0"
    fit-margin-left="0"
    fit-margin-right="0"
    fit-margin-bottom="0"
-   inkscape:zoom="0.1633105"
-   inkscape:cx="247.84999"
+   inkscape:zoom="1.0306873"
+   inkscape:cx="287.29867"
    inkscape:cy="351.75004"
-   inkscape:window-x="-8"
-   inkscape:window-y="-8"
+   inkscape:window-x="-4"
+   inkscape:window-y="-4"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Capa_1" />
+   inkscape:current-layer="g594" />
 <style
    type="text/css"
    id="style2">
@@ -105,7 +105,8 @@
    id="g594"
    transform="translate(-181.7,-384.2)">
 	<g
-   id="g404">
+   id="g404"
+   transform="translate(-14.500006,-13.800012)">
 		<rect
    x="222.10001"
    y="988.90002"
@@ -116,7 +117,8 @@
    style="fill:#b8b8ed" />
 	</g>
 	<g
-   id="g408">
+   id="g408"
+   transform="matrix(1,0,0,1.094564,-14.500006,-52.022774)">
 		<rect
    x="222.10001"
    y="404.20001"
@@ -129,8 +131,8 @@
 	<g
    id="g412">
 		<rect
-   x="221.2"
-   y="603.90002"
+   x="206.7"
+   y="590.10004"
    class="st1"
    width="168.3"
    height="342.70001"
@@ -138,7 +140,8 @@
    style="fill:#b8b8ed" />
 	</g>
 	<g
-   id="g416">
+   id="g416"
+   transform="translate(-14.500006,-13.800012)">
 		<rect
    x="481.60001"
    y="603.90002"

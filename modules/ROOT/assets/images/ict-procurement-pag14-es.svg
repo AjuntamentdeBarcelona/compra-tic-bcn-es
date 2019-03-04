@@ -19,10 +19,10 @@
    sodipodi:docname="ict-procurement-pag14-es.svg"
    width="1809.7"
    height="314.37445"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
    id="metadata521"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs519" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -32,21 +32,21 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1366"
-   inkscape:window-height="715"
+   inkscape:window-width="1280"
+   inkscape:window-height="961"
    id="namedview517"
    showgrid="false"
    fit-margin-top="0"
    fit-margin-left="0"
    fit-margin-right="0"
    fit-margin-bottom="0"
-   inkscape:zoom="0.24805431"
-   inkscape:cx="1267.1976"
-   inkscape:cy="187.66139"
-   inkscape:window-x="1592"
-   inkscape:window-y="55"
+   inkscape:zoom="0.38254353"
+   inkscape:cx="801.46862"
+   inkscape:cy="292.22465"
+   inkscape:window-x="-4"
+   inkscape:window-y="-4"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Capa_1" />
+   inkscape:current-layer="g514" />
 <style
    type="text/css"
    id="style2">
@@ -120,19 +120,22 @@
    transform="translate(-500.6,-566.18678)">
 	<polygon
    class="st1"
-   points="1083.2,760.3 1096.2,710.4 1083.2,660.6 519.8,660.6 519.8,760.3 "
+   points="519.8,760.3 1083.2,760.3 1096.2,710.4 1083.2,660.6 519.8,660.6 "
    id="polygon26"
-   style="fill:#b7b7ec" />
+   style="fill:#b7b7ec"
+   transform="translate(-16,-12)" />
 	<polygon
    class="st1"
-   points="1689.3,760.3 1702.3,710.4 1689.3,660.6 1125.9,660.6 1125.9,760.3 "
+   points="1125.9,760.3 1689.3,760.3 1702.3,710.4 1689.3,660.6 1125.9,660.6 "
    id="polygon28"
-   style="fill:#b7b7ec" />
+   style="fill:#b7b7ec"
+   transform="translate(-16,-12)" />
 	<polygon
    class="st1"
-   points="2297.3,760.3 2310.3,710.4 2297.3,660.6 1733.9,660.6 1733.9,760.3 "
+   points="1733.9,760.3 2297.3,760.3 2310.3,710.4 2297.3,660.6 1733.9,660.6 "
    id="polygon30"
-   style="fill:#b7b7ec" />
+   style="fill:#b7b7ec"
+   transform="translate(-16,-12)" />
 	<line
    class="st2"
    x1="785.29999"
@@ -286,6 +289,7 @@
      id="tspan86"
      style="font-size:42.19860077px;font-family:Apercu-Light;fill:#ffffff">A</tspan></text>
 
+
 	<text
    transform="translate(1139.8757,716.6384)"
    id="text136"><tspan
@@ -405,89 +409,27 @@
      id="tspan134"
      style="font-size:42.19860077px;font-family:Apercu-Light;fill:#ffffff">N</tspan></text>
 
+
 	<text
-   transform="translate(1785.6824,716.6384)"
-   id="text170"><tspan
-     x="0"
-     y="0"
+   id="text170"
+   x="1757.6824"
+   y="716.63843"><tspan
+     x="1757.6824"
+     y="716.63843"
      class="st5 st6 st7"
      id="tspan138"
      style="font-size:42.19860077px;font-family:Apercu-Light;fill:#ffffff">C</tspan><tspan
-     x="28.5"
-     y="0"
+     x="1786.1824"
+     y="716.63843"
      class="st5 st6 st7 st8"
      id="tspan140"
-     style="font-size:42.19860077px;font-family:Apercu-Light;letter-spacing:-1;fill:#ffffff">O</tspan><tspan
-     x="58.299999"
-     y="0"
-     class="st5 st6 st7 st8"
-     id="tspan142"
-     style="font-size:42.19860077px;font-family:Apercu-Light;letter-spacing:-1;fill:#ffffff">N</tspan><tspan
-     x="86.099998"
-     y="0"
-     class="st5 st6 st7 st8"
-     id="tspan144"
-     style="font-size:42.19860077px;font-family:Apercu-Light;letter-spacing:-1;fill:#ffffff">D</tspan><tspan
-     x="112.9"
-     y="0"
+     style="font-size:42.19860077px;font-family:Apercu-Light;letter-spacing:-1;fill:#ffffff">OND</tspan><tspan
+     x="1870.5824"
+     y="716.63843"
      class="st5 st6 st7"
      id="tspan146"
-     style="font-size:42.19860077px;font-family:Apercu-Light;fill:#ffffff">I</tspan><tspan
-     x="123.8"
-     y="0"
-     class="st5 st6 st7"
-     id="tspan148"
-     style="font-size:42.19860077px;font-family:Apercu-Light;fill:#ffffff">C</tspan><tspan
-     x="152.10001"
-     y="0"
-     class="st5 st6 st7"
-     id="tspan150"
-     style="font-size:42.19860077px;font-family:Apercu-Light;fill:#ffffff">I</tspan><tspan
-     x="163"
-     y="0"
-     class="st5 st6 st7"
-     id="tspan152"
-     style="font-size:42.19860077px;font-family:Apercu-Light;fill:#ffffff">Ó D</tspan><tspan
-     x="232.39999"
-     y="0"
-     class="st5 st6 st7 st8"
-     id="tspan154"
-     style="font-size:42.19860077px;font-family:Apercu-Light;letter-spacing:-1;fill:#ffffff">’</tspan><tspan
-     x="242.3"
-     y="0"
-     class="st5 st6 st7"
-     id="tspan156"
-     style="font-size:42.19860077px;font-family:Apercu-Light;fill:#ffffff">E</tspan><tspan
-     x="266.29999"
-     y="0"
-     class="st5 st6 st7"
-     id="tspan158"
-     style="font-size:42.19860077px;font-family:Apercu-Light;fill:#ffffff">X</tspan><tspan
-     x="289.79999"
-     y="0"
-     class="st5 st6 st7"
-     id="tspan160"
-     style="font-size:42.19860077px;font-family:Apercu-Light;fill:#ffffff">E</tspan><tspan
-     x="312.79999"
-     y="0"
-     class="st5 st6 st7"
-     id="tspan162"
-     style="font-size:42.19860077px;font-family:Apercu-Light;fill:#ffffff">C</tspan><tspan
-     x="341.5"
-     y="0"
-     class="st5 st6 st7"
-     id="tspan164"
-     style="font-size:42.19860077px;font-family:Apercu-Light;fill:#ffffff">UC</tspan><tspan
-     x="397.10001"
-     y="0"
-     class="st5 st6 st7"
-     id="tspan166"
-     style="font-size:42.19860077px;font-family:Apercu-Light;fill:#ffffff">I</tspan><tspan
-     x="408"
-     y="0"
-     class="st5 st6 st7"
-     id="tspan168"
-     style="font-size:42.19860077px;font-family:Apercu-Light;fill:#ffffff">Ó</tspan></text>
+     style="font-size:42.19860077px;font-family:Apercu-Light;fill:#ffffff">ICIÓN EJECUCIÓN</tspan></text>
+
 
 	<text
    transform="translate(579.2664,871.8454)"
@@ -587,6 +529,7 @@
      class="st10 st6 st7"
      id="tspan208"
      style="font-size:42.19860077px;font-family:Apercu-Light;fill:#3b31f4">o </tspan></text>
+
 
 	<text
    transform="translate(1178.1492,871.8454)"
@@ -692,6 +635,7 @@
      id="tspan250"
      style="font-size:42.19860077px;font-family:Apercu-Light;fill:#3b31f4">l</tspan></text>
 
+
 	<text
    transform="translate(1786.6511,871.8454)"
    id="text292"><tspan
@@ -791,6 +735,7 @@
      id="tspan290"
      style="font-size:42.19860077px;font-family:Apercu-Light;fill:#3b31f4">o </tspan></text>
 
+
 	<text
    transform="translate(653.1765,617.736)"
    id="text328"><tspan
@@ -879,6 +824,7 @@
      class="st11 st6 st12"
      id="tspan326"
      style="font-size:28.77179909px;font-family:Apercu-Light;fill:#1d1d1b">n</tspan></text>
+
 
 	<text
    transform="translate(1851.6062,588.0466)"
@@ -983,6 +929,7 @@
      class="st11 st6 st12"
      id="tspan368"
      style="font-size:28.77179909px;font-family:Apercu-Light;fill:#1d1d1b">r </tspan></text>
+
 
 	<text
    transform="translate(1806.2898,625.5349)"
@@ -1127,6 +1074,7 @@
      class="st11 st6 st12"
      id="tspan426"
      style="font-size:28.77179909px;font-family:Apercu-Light;fill:#1d1d1b">o</tspan></text>
+
 
 	<text
    transform="translate(1115.741,617.736)"
@@ -1336,6 +1284,7 @@
      class="st11 st6 st12"
      id="tspan510"
      style="font-size:28.77179909px;font-family:Apercu-Light;fill:#1d1d1b">n</tspan></text>
+
 
 </g>
 </svg>
