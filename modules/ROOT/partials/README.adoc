@@ -28,19 +28,15 @@
 //
 // OPTIONAL. Subtitle of the document.
 :_subtitle: Programa de digitalización abierta del Comisionado de Tecnología e Innovación Digital del Ayuntamiento de Barcelona
-
-Esta guía ha sido elaborada por un equipo dirigido por Francesca Bria, comisionada de Tecnología e Innovación Digital.
-Los miembros del equipo son los siguientes: Francesca Bria, Paco Rodríguez, Malcolm Bain, Joan Batlle, Ana Bastide Vila, Xabier Barandiaran Fernández, Marius Boada Pla, Guillem Marpons, Xavier Roca Vilalta, Xavier Bes Segovia, Josep Carles Collazos, Joan Domènech Bas, Oscar Sanz García, Carlos Echevarría Mesegur, LLuis Girona Frisach, Anna Majó Crespo, Tomás Gea Calza, Javier Ruiz, Gemma Galdon, John Mi- chaelides, Esther Bretschneider.
-
 //
 // MANDATORY. Semi-colon-separated list of names.
-:authors:
+:authors: Esta guía ha sido elaborada por un equipo dirigido por Francesca Bria, comisionada de Tecnología e Innovación Digital. Los miembros del equipo son los siguientes: Francesca Bria, Paco Rodríguez, Malcolm Bain, Joan Batlle, Ana Bastida Vila, Xabier Barandiaran Fernández, Marius Boada Pla, Guillem Marpons, Xavier Roca Vilalta, Xavier Bes Segovia, Josep Carles Collazos, Joan Domènech Bas, Oscar Sanz García, Carlos Echevarría Mesegur, LLuis Girona Frisach, Anna Majó Crespo, Tomás Gea Calza, Javier Ruiz, Gemma Galdon, John Michaelides, Esther Bretschneider.
 //
 // OPTIONAL. Semi-colon-separated list of names.
 :_contributors:
 //
 // OPTIONAL. Semi-colon-separated list of names.
-:_reviewers:
+:_reviewers: Ivan Mingueza
 //
 // OPTIONAL. Publication date of the revision. When the default value
 // ("{docdate}") is used, the current date in format YYYY-MM-DD is automatically
