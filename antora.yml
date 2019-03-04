@@ -2,7 +2,7 @@
 # language (LANG/DOC_NAME where LANG is one of ca, en, es). Use '-' as word separator. It
 # can include letters, numbers and periods ( . ), but no other symbols.
 # Example: en/my-awesome-doc
-name: es/barcelona_ict_procurement_0.1_es
+name: es/ict-procurement
 
 
 # MANDATORY. Title of the document as we want it to appear in
