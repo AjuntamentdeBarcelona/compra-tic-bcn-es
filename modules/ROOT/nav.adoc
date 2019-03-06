@@ -13,6 +13,6 @@ xref:measures.adoc[Medidas y aplicación en la contratación]
 xref:regulations.adoc[Normativa de aplicación]
 
 .$$BOTTOM
-* xref:{lang}glossary:ROOT:glossary.adoc[Glosario de guías]
+* xref:{lang}/glossary:ROOT:glossary.adoc[Glosario de guías]
 * xref:index.adoc[Autores y otras informaciones del documento]
 * link:{attachmentsdir}/barcelona_ict_procurement_{revnumber}.{lang}.pdf[Descargar PDF]
